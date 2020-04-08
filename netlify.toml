@@ -1,0 +1,5 @@
+[build]
+  base = "functions/"
+  command = "yarn"
+  functions = "./functions"
+  publish = "./"
