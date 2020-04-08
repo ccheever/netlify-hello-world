@@ -1,5 +1,5 @@
 [build]
-  command = "cd functions; npm install"
+  command = "cd functions; yarn"
   functions = "./functions"
 
 [build.environment]
