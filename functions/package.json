@@ -1,0 +1,8 @@
+{
+  "name": "netlify-hello-world-functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ccheever/netlify-hello-world.git",
+  "author": "Charlie Cheever <ccheever@gmail.com>",
+  "license": "MIT"
+}

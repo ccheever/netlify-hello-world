@@ -1,5 +1,5 @@
 [build]
-  base = "functions/"
-  command = "yarn"
+  command = "cd functions; npm install"
   functions = "./functions"
-  publish = "./"
+  publish = "build"
+
