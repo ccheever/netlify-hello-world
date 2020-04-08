@@ -2,3 +2,6 @@
   command = "cd functions; npm install"
   functions = "./functions"
 
+[build.environment]
+  YARN_VERSION = "1.22.4"
+
